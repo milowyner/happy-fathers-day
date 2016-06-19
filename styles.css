@@ -54,7 +54,7 @@ h1 {
   animation-play-state: running;*/
 }
 .p1 {
-  animation: p1 6s ease-out;
+  animation: p1 6s;
 }
 .p2 {
   animation: p2 8s;
